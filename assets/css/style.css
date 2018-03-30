@@ -1,0 +1,24 @@
+@media screen and (min-width: 300px) and (max-width: 950px) {
+    .test {
+        max-width: 420px;
+    }
+}
+
+@media screen and (min-width: 300px) and (max-width: 1000px) {
+    .text {
+        font-size: 10px;
+        text-align: left;
+        display: none;
+    }
+}
+
+@media screen and (min-width: 300px) and (max-width: 1000px) {
+    .card {
+        margin-left: 75px;
+    }
+}
+
+body,
+.card {
+    background-image: url(../images/background/concrete_seamless.png);
+}
