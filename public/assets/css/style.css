@@ -22,3 +22,13 @@ body,
 .card {
     background-image: url(../images/background/concrete_seamless.png);
 }
+
+.caption {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 100%;
+    color: white;
+    font-size: 80px;
+    ;
+}
