@@ -25,9 +25,21 @@ body,
 
 .caption {
     position: absolute;
-    top: 10%;
-    left: 10%;
+    top: 20%;
+    left: 20%;
     width: 100%;
     color: white;
     font-size: 40px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.page {
+    display: none;
+}
+
+.page-active {
+    display: block;
 }
