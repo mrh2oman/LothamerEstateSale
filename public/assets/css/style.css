@@ -43,3 +43,8 @@ body,
 .page-active {
     display: block;
 }
+
+.img-thumbnail {
+    width: 150px;
+    height: 150px;
+}
